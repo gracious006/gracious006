@@ -37,4 +37,16 @@
 - 📧 graciousometere@gmail.com
 
 ---
+
+### 📊 GitHub Stats
+
+![Gracious's GitHub stats](https://github-readme-stats.vercel.app/api?username=gracious006&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gracious006&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gracious006&theme=tokyonight)
+
+
+
+---
 ✨ _bit by bit we scale the future_  
