@@ -1,14 +1,14 @@
 # Hi there, I’m Gracious 👋  
 
 ☁️ **Future Cloud Architect in the making**  
-💻 Computer Science Student | Currently a **Cloud Computing Intern**  
+💻 Computer Science Student | AWS  
 🔧 Breaking, fixing & building… one commit at a time 🚀  
 
 ---
 
 ### 🌟 About Me  
 - 🎯 Aspiring **Cloud Architect** passionate about building scalable systems  
-- 🌱 Currently an **Intern in Cloud Computing**, learning AWS & DevOps practices  
+- 🌱 Currently Learning AWS & DevOps practices  
 - 💡 Curious about **cloud design patterns** and **distributed systems**  
 - 🤝 Open to collaborating on **cloud, automation & cloud-related projects**  
 
@@ -35,6 +35,7 @@
 ### 📫 Connect with Me  
 - 🌐 [LinkedIn](www.linkedin.com/in/gracious-umoru-676795321)   
 - 📧 graciousometere@gmail.com
+-[Instagram](https://www.instagram.com/_cloudwithgracious/).  
 
 ---
 
