@@ -39,4 +39,4 @@
 
 
 ---
-✨ _bit by bit we scale the future_  
+✨ bit by bit we scale the future
